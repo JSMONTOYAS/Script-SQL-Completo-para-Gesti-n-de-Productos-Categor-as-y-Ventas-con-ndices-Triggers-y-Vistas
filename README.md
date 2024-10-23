@@ -1,0 +1,2 @@
+# Script-SQL-Completo-para-Gesti-n-de-Productos-Categor-as-y-Ventas-con-ndices-Triggers-y-Vistas
+Este repositorio contiene un archivo SQL que cubre múltiples aspectos clave de la creación y gestión de una base de datos relacional, enfocado en una estructura de Productos, Categorías y Ventas. El script incluye funcionalidades que optimizan el rendimiento y la eficiencia de la base de datos mediante el uso de índices, vistas, y triggers.
